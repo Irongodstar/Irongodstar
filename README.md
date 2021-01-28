@@ -1,4 +1,4 @@
-### Hey everyone, I'm Xiqian Zhang, Lead Developer on InfraexDev 👋
+### Hey everyone 👋
 
 <!--
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
